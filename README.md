@@ -1,2 +1,2 @@
 # hello-world
-i am study econometrics
+i study econometrics
